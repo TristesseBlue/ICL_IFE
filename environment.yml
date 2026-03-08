@@ -1,0 +1,18 @@
+name: transformerLens
+channels:
+  - nvidia
+  - huggingface
+  - pytorch
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - plotly
+  - pytest
+  - python=3.11.4
+  - seaborn
+  - spacy
+prefix: /home/zz436/.conda/envs/transformerLens
